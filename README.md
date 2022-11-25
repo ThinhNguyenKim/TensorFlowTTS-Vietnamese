@@ -4,3 +4,8 @@
 * Dataset: InfoRe
 
 *Note: Highly recommended run these notebooks on Google Colab for best experience.*
+## References
+
+https://github.com/TensorSpeech/TensorFlowTTS
+
+https://github.com/tensorflow/tfjs-converter
